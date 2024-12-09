@@ -37,7 +37,7 @@ export default function OurProduct() {
                   <span className="text-black text-sm font-bold">$20</span>
                 </div>
                 <div className="flex items-center">
-                  <FaCartShopping className="w-6 h-6 sm:w-5 sm:h-5 text-[#b9bec0] text-xs cursor-pointer transition-transform duration-300 hover:scale-110" />
+                  <FaCartShopping className="w-6 h-6 sm:w-5 sm:h-5 text-gray-500 text-xs cursor-pointer transition-transform duration-300 hover:scale-110" />
                 </div>
               </div>
             </div>
